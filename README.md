@@ -23,6 +23,27 @@ It’s designed to be **beginner-friendly** for Python learners, while also cove
 
 ---
 
+📊 Sample Workflows
+✅ Normal Sale
+
+Sell items that are in stock.
+
+Inventory updates automatically.
+
+⚠️ Insufficient Stock
+
+If you try to sell more than available, program warns you.
+
+❌ Non-Existing SKU
+
+If SKU doesn’t exist, program notifies user.
+
+🟢 Zero Stock
+
+Easily check which SKUs are out of stock.
+
+---
+
 🎯 Future Enhancements
 
 🔗 Database Integration (SQLite/MySQL) for persistent storage
